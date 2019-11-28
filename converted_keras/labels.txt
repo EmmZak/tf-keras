@@ -1,0 +1,15 @@
+0 Bottle
+1 Bouchon
+2 Box
+3 BoxPlastic
+4 Canette
+5 Conserve
+6 Filme
+7 Glass
+8 GobeletBigOpaque
+9 GobeletPP
+10 GobeletPS
+11 GobeletTrans
+12 Hand
+13 Nothing
+14 Pehd
