@@ -7,25 +7,6 @@ from pymodbus.client.sync import ModbusTcpClient
 from time import sleep
 
 #import voice
-"""
-%M 10  -  security
-%M 9  -  liquide
-%M 11  -  bac
-%M 13  -  metal
-%M 15 - verre
-output
-%M 1  -  acier
-%M 2  -  alu
-%M 3  -  pet
-%M 4  -  pehd
-%M 5 -  ppps
-%M 6  -  verre
-%M 7 -  carton
-%M 8 -  papier
-%M 14  -  tetra
-
-liquide = [False, False, True] -> liquide[0] état précédent, liquide[1] état présent, liquide[2] autorisation envoi sms
-"""
 
 logging.info("Creating variables")
 
